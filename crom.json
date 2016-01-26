@@ -1,0 +1,13 @@
+{
+  "dependencies": [
+    {
+      "name": "crom-test-foo",
+      "owner": "mbostock",
+      "version": "0.0.1",
+      "range": "*",
+      "url": "https://github.com/mbostock/crom-test-foo",
+      "releaseUrl": "https://github.com/mbostock/crom-test-foo/releases/tag/v0.0.1",
+      "sha": "d545cc332506f90eec9807e89ffa78ca7a579ff9d0ea19bc1af4f0ccc97188a0"
+    }
+  ]
+}
